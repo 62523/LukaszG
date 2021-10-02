@@ -1,10 +1,8 @@
 Oto nasza wspólna historia
 Za górami, za lasami
-<<<<<<< HEAD
 Panował Cesarz Henryk
 Zebrał lud 
 
-=======
 Była sobie baba jaga z cukierkami
 Zjadła wszystkie łakocie przez co miała problem z brzuchem
 
